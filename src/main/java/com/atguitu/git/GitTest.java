@@ -8,6 +8,8 @@ public class GitTest {
         System.out.println("hello github!33");
         System.out.println("hello github!master");
         System.out.println("hello github!44");
+        System.out.println("hello github!44");
+        System.out.println("push github22");
 
     }
 }
